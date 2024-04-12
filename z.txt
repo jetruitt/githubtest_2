@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 adding this line from main (to cause conflict)
-=======
 adding this line to make conflict
->>>>>>> experiment3
+adding this line from the forked repo.
+
